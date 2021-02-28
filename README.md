@@ -7,5 +7,5 @@ Mini projet JAVA pour le module Génie logiciel (TP)
 Créer une application de bureau avec java qui :
 
 * Pourra répondre aux attentes pour la gestion des articles
-* avoir une fonction pour nous avertir en cas de plagiat
-* Sera intuitif avec une interface facile à prendre main et agréable pour UX
+* Sera doté d'une fonctionnalité qui pourra nous avertir en cas de plagiat
+* Sera intuitif avec une interface facile à prendre en main et agréable pour UX
